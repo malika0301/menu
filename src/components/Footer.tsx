@@ -1,5 +1,4 @@
-import { motion } from 'framer-motion';
-import { Facebook, Twitter, Instagram, Youtube, Clock, Mail, Phone } from 'lucide-react';
+import { Facebook, Twitter, Instagram, Youtube, Clock } from 'lucide-react';
 
 const Footer = () => {
   const recentPosts = [
