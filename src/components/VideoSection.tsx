@@ -81,7 +81,7 @@ const VideoSection = () => {
               <iframe
                 width="100%"
                 height="100%"
-                src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1"
+                src="https://www.youtube.com/embed/NC9KlaxtfLg?si=eLn7Nyha4oQb0Z87"
                 title="Restaurant Video"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
